@@ -90,7 +90,6 @@ farmvision/
 ├── arduino/
 │   └── soil_sensor.ino # Arduino firmware
 └── README.md
-
 Demo
 
 Live demo available at JAMHacks 2026 submission page.
